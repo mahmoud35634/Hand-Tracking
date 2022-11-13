@@ -5,7 +5,7 @@ This project makes a datection on hand landmarks and tracking it
 pip install opencv-python
 <h2>we need to install mediapipe library </h2>
 pip install mediapipe
-You can see what the mediapipe used in [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+You can see what the mediapipe used in [I'm an inline-style link with title](https://mediapipe.dev/ "Mediapipe' Homepage")
 
 
 
